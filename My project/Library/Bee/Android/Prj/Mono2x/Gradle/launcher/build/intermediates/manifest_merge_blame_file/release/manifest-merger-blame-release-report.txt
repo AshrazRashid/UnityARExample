@@ -1,0 +1,212 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.WorkARound.WorkARound"
+4    android:versionCode="1"
+5    android:versionName="1.0.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+10
+11    <uses-feature
+11-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:19:3-21:33
+12        android:name="android.hardware.camera.ar"
+12-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:20:7-48
+13        android:required="true" />
+13-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:21:7-30
+14    <uses-feature
+14-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:22:3-24:33
+15        android:name="android.hardware.camera"
+15-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:23:7-45
+16        android:required="true" />
+16-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:24:7-30
+17
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:25:3-63
+18-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:25:20-60
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:26:3-65
+19-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:26:20-62
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:27:3-77
+20-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:27:20-74
+21    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+21-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-79
+21-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-76
+22    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+22-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-81
+22-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:22-78
+23
+24    <uses-feature android:name="android.hardware.camera.autofocus" />
+24-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:5-70
+24-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:19-67
+25    <uses-feature android:glEsVersion="0x00030000" />
+25-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:5-54
+25-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:19-51
+26    <uses-feature
+26-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:5-23:36
+27        android:name="android.hardware.touchscreen"
+27-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:9-52
+28        android:required="false" />
+28-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:9-33
+29    <uses-feature
+29-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:5-26:36
+30        android:name="android.hardware.touchscreen.multitouch"
+30-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:9-63
+31        android:required="false" />
+31-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-33
+32    <uses-feature
+32-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:5-29:36
+33        android:name="android.hardware.touchscreen.multitouch.distinct"
+33-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-72
+34        android:required="false" />
+34-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:9-33
+35    <uses-feature
+35-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:5-32:35
+36        android:name="com.google.ar.core.depth"
+36-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:9-48
+37        android:required="true" />
+37-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:32:9-32
+38
+39    <queries>
+39-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:29:5-31:15
+40        <package android:name="com.google.ar.core" />
+40-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:30:9-54
+40-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:30:18-51
+41    </queries>
+42
+43    <application
+43-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-17:17
+44        android:allowBackup="true"
+44-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:5:7-33
+45        android:extractNativeLibs="true"
+45-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:9-41
+46        android:icon="@mipmap/ic_launcher"
+46-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:6:7-41
+47        android:label="@string/app_name"
+47-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:7:7-39
+48        android:roundIcon="@mipmap/ic_launcher_round"
+48-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:8:7-52
+49        android:supportsRtl="true"
+49-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:9:7-33
+50        android:theme="@style/UnityThemeSelector" >
+50-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:41:9-50
+51        <meta-data
+51-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:11:5-13:36
+52            android:name="com.google.ar.core"
+52-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:12:9-42
+53            android:value="required" />
+53-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:13:9-33
+54        <meta-data
+54-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:14:5-16:32
+55            android:name="unityplayer.ForwardNativeEventsToDalvik"
+55-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:15:9-63
+56            android:value="true" />
+56-->/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:16:9-29
+57        <meta-data
+57-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:46:9-48:33
+58            android:name="unity.splash-mode"
+58-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:47:13-45
+59            android:value="0" />
+59-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:48:13-30
+60        <meta-data
+60-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:49:9-51:36
+61            android:name="unity.splash-enable"
+61-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:50:13-47
+62            android:value="True" />
+62-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:51:13-33
+63        <meta-data
+63-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:52:9-54:36
+64            android:name="unity.launch-fullscreen"
+64-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:53:13-51
+65            android:value="True" />
+65-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:54:13-33
+66        <meta-data
+66-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:55:9-57:36
+67            android:name="unity.render-outside-safearea"
+67-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:56:13-57
+68            android:value="True" />
+68-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:57:13-33
+69        <meta-data
+69-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:58:9-60:50
+70            android:name="notch.config"
+70-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:59:13-40
+71            android:value="portrait|landscape" />
+71-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:60:13-47
+72        <meta-data
+72-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:61:9-63:36
+73            android:name="unity.auto-report-fully-drawn"
+73-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:62:13-57
+74            android:value="true" />
+74-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:63:13-33
+75
+76        <activity
+76-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:65:9-84:20
+77            android:name="com.unity3d.player.UnityPlayerActivity"
+77-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:66:13-66
+78            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+78-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:67:13-194
+79            android:exported="true"
+79-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:68:13-36
+80            android:hardwareAccelerated="false"
+80-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:69:13-48
+81            android:label="@string/app_name"
+81-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:70:13-45
+82            android:launchMode="singleTask"
+82-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:71:13-44
+83            android:resizeableActivity="false"
+83-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:72:13-47
+84            android:screenOrientation="fullUser"
+84-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:73:13-49
+85            android:theme="@style/UnityThemeSelector" >
+85-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:74:13-54
+86            <intent-filter>
+86-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:75:13-79:29
+87                <category android:name="android.intent.category.LAUNCHER" />
+87-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:76:17-77
+87-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:76:27-74
+88
+89                <action android:name="android.intent.action.MAIN" />
+89-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:78:17-69
+89-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:78:25-66
+90            </intent-filter>
+91
+92            <meta-data
+92-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:81:13-83:40
+93                android:name="notch_support"
+93-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:82:17-45
+94                android:value="true" />
+94-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:83:17-37
+95        </activity>
+96
+97        <meta-data
+97-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:86:9-88:36
+98            android:name="unityplayer.SkipPermissionsDialog"
+98-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:87:13-61
+99            android:value="true" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+99-->[:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:88:13-33
+100        <meta-data
+100-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:36:9-38:41
+101            android:name="com.google.ar.core.min_apk_version"
+101-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:37:13-62
+102            android:value="220920000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+102-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:38:13-38
+103        <activity
+103-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:40:9-46:80
+104            android:name="com.google.ar.core.InstallActivity"
+104-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:41:13-62
+105            android:configChanges="keyboardHidden|orientation|screenSize"
+105-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:42:13-74
+106            android:excludeFromRecents="true"
+106-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:43:13-46
+107            android:exported="false"
+107-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:44:13-37
+108            android:launchMode="singleTop"
+108-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:45:13-43
+109            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+109-->[com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:46:13-77
+110    </application>
+111
+112</manifest>

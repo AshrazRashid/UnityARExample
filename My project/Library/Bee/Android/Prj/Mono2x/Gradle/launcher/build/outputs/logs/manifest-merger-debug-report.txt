@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-91:12
+MERGED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:5-40
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-17:17
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:5-89:19
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:5-89:19
+MERGED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:33:5-47:19
+MERGED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:33:5-47:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:9-41
+	android:supportsRtl
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:9:7-33
+	android:label
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:7:7-39
+	android:roundIcon
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:8:7-52
+	android:icon
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:6:7-41
+	android:allowBackup
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:5:7-33
+	android:theme
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:9-50
+	tools:replace
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:9-65
+meta-data#com.google.ar.core
+ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:11:5-13:36
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-45:40
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-45:40
+	android:value
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:12:9-42
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:14:5-16:32
+	android:value
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:16:9-29
+	android:name
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:15:9-63
+uses-feature#android.hardware.camera.ar
+ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:19:3-21:33
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-17:35
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:21:7-30
+	android:name
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:20:7-48
+uses-feature#android.hardware.camera
+ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:22:3-24:33
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:5-60
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:5-60
+	android:required
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:24:7-30
+		MERGED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:24:7-30
+	android:name
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:23:7-45
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:25:3-63
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-65
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:25:20-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:26:3-65
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:26:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:27:3-77
+	android:name
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:27:20-74
+uses-sdk
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:25:5-27:41
+MERGED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:25:5-27:41
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-78
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:19-67
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:19-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-72
+uses-feature#com.google.ar.core.depth
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:5-32:35
+	android:required
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:9-48
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:9-48:33
+	android:value
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:48:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:49:9-51:36
+	android:value
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:51:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:50:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:52:9-54:36
+	android:value
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:54:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:53:13-51
+meta-data#unity.render-outside-safearea
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:55:9-57:36
+	android:value
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:57:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:56:13-57
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:58:9-60:50
+	android:value
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:60:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:59:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:61:9-63:36
+	android:value
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:63:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:62:13-57
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:65:9-84:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:70:13-45
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:71:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:69:13-48
+	android:exported
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:68:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:72:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:67:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:74:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:66:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:75:13-79:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:76:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:78:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:78:25-66
+meta-data#notch_support
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:81:13-83:40
+	android:value
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:83:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:82:17-45
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:86:9-88:36
+	android:value
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:88:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:87:13-61
+queries
+ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.31.0] /Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/AndroidManifest.xml:41:13-62

@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.WorkARound.WorkARound.test" >
+4
+5    <uses-sdk
+5-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:5:5-74
+6        android:minSdkVersion="22"
+6-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:5:15-41
+7        android:targetSdkVersion="34" />
+7-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:11:5-15:75
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:13:22-53
+13        android:label="Tests for com.WorkARound.WorkARound"
+13-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:15:22-73
+14        android:targetPackage="com.WorkARound.WorkARound" />
+14-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:12:22-71
+15
+16    <application android:debuggable="true" >
+16-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:8:9-60
+17-->/Users/mac/Documents/AndroidProject/launcher/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest3294314736820768780.xml:8:23-57
+18    </application>
+19
+20</manifest>

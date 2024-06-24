@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.unity.xr-content.xr-sim-environments": {
+      "tarball": {
+        "hash": "5398f6e86751",
+        "mtime": 1718729916310,
+        "size": 37088221,
+        "localPath": "/Users/mac/My project/ContentPackages/com.unity.xr-content.xr-sim-environments-1.0.0.tgz"
+      }
+    }
+  }
+}

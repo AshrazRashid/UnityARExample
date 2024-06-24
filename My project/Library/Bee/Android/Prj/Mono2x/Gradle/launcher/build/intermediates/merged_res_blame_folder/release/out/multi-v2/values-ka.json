@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka/values-ka.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/res/values-ka/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,292,411,532",
+                        "endColumns": "48,52,118,120,88",
+                        "endOffsets": "238,291,410,531,620"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,165,288,413",
+                        "endColumns": "52,56,122,124,92",
+                        "endOffsets": "103,160,283,408,501"
+                    }
+                }
+            ]
+        }
+    ]
+}

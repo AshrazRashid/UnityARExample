@@ -1,0 +1,37 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.UnityTechnologies.XR.Manifest.test" >
+4
+5    <uses-sdk
+5-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:5:5-73
+6        android:minSdkVersion="1"
+6-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:5:15-40
+7        android:targetSdkVersion="22" />
+7-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:5:41-70
+8
+9    <instrumentation
+9-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:11:5-15:88
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:13:22-53
+13        android:label="Tests for com.UnityTechnologies.XR.Manifest.test"
+13-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:15:22-86
+14        android:targetPackage="com.UnityTechnologies.XR.Manifest.test" />
+14-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:12:22-84
+15
+16    <application android:debuggable="true" >
+16-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:8:9-60
+17-->/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17063624400789842212.xml:8:23-57
+18
+19        <activity android:name="com.unity3d.player.UnityPlayerActivity" >
+19-->[:unityLibrary:xrmanifest.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-11:20
+19-->[:unityLibrary:xrmanifest.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:19-72
+20        </activity>
+21    </application>
+22
+23</manifest>

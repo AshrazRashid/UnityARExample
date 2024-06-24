@@ -1,0 +1,180 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.unity3d.player.test" >
+4
+5    <uses-sdk
+5-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:5:5-74
+6        android:minSdkVersion="22"
+6-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:5:15-41
+7        android:targetSdkVersion="34" />
+7-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:11:5-15:73
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:13:22-53
+13        android:label="Tests for com.unity3d.player.test"
+13-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:15:22-71
+14        android:targetPackage="com.unity3d.player.test" />
+14-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:12:22-69
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-67
+16-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-64
+17
+18    <uses-feature android:glEsVersion="0x00030000" />
+18-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-54
+18-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:19-51
+19    <uses-feature
+19-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-15:36
+20        android:name="android.hardware.vulkan.version"
+20-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-55
+21        android:required="false" />
+21-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-33
+22    <uses-feature
+22-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:5-18:36
+23        android:name="android.hardware.touchscreen"
+23-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-52
+24        android:required="false" />
+24-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-33
+25    <uses-feature
+25-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-21:36
+26        android:name="android.hardware.touchscreen.multitouch"
+26-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-63
+27        android:required="false" />
+27-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-33
+28    <uses-feature
+28-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:5-24:36
+29        android:name="android.hardware.touchscreen.multitouch.distinct"
+29-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-72
+30        android:required="false" />
+30-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:9-33
+31
+32    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+32-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+32-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
+33
+34    <application
+34-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:7:5-9:19
+35        android:debuggable="true"
+36        android:extractNativeLibs="true" >
+36-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:18-50
+37        <uses-library android:name="android.test.runner" />
+37-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:8:9-60
+37-->/Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16709372306171850329.xml:8:23-57
+38
+39        <meta-data
+39-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:9-29:33
+40            android:name="unity.splash-mode"
+40-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-45
+41            android:value="0" />
+41-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-30
+42        <meta-data
+42-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:9-32:36
+43            android:name="unity.splash-enable"
+43-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-47
+44            android:value="True" />
+44-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-33
+45        <meta-data
+45-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:9-35:36
+46            android:name="unity.launch-fullscreen"
+46-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-51
+47            android:value="True" />
+47-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-33
+48        <meta-data
+48-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:9-38:36
+49            android:name="unity.render-outside-safearea"
+49-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-57
+50            android:value="True" />
+50-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-33
+51        <meta-data
+51-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:9-41:50
+52            android:name="notch.config"
+52-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:13-40
+53            android:value="portrait|landscape" />
+53-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-47
+54        <meta-data
+54-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:9-44:36
+55            android:name="unity.auto-report-fully-drawn"
+55-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-57
+56            android:value="true" />
+56-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-33
+57
+58        <activity
+58-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:9-67:20
+59            android:name="com.unity3d.player.UnityPlayerActivity"
+59-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-66
+60            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+60-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:48:13-194
+61            android:exported="true"
+61-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:49:13-36
+62            android:hardwareAccelerated="false"
+62-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:50:13-48
+63            android:launchMode="singleTask"
+63-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:51:13-44
+64            android:resizeableActivity="false"
+64-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:52:13-47
+65            android:screenOrientation="fullUser"
+65-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:53:13-49
+66            android:theme="@style/UnityThemeSelector" >
+66-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:54:13-54
+67            <intent-filter>
+67-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:55:13-59:29
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:56:17-77
+68-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:56:27-74
+69
+70                <action android:name="android.intent.action.MAIN" />
+70-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:58:17-69
+70-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:58:25-66
+71            </intent-filter>
+72
+73            <meta-data
+73-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:61:13-63:40
+74                android:name="unityplayer.UnityActivity"
+74-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:62:17-57
+75                android:value="true" />
+75-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:63:17-37
+76            <meta-data
+76-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:64:13-66:40
+77                android:name="notch_support"
+77-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:65:17-45
+78                android:value="true" />
+78-->[:unityLibrary] /Users/mac/Documents/AndroidProject/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:66:17-37
+79        </activity>
+80
+81        <receiver
+81-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:40
+82            android:name="com.unity.androidnotifications.UnityNotificationManager"
+82-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-83
+83            android:exported="false" />
+83-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
+84        <receiver
+84-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-22:20
+85            android:name="com.unity.androidnotifications.UnityNotificationRestartReceiver"
+85-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-91
+86            android:enabled="false"
+86-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-36
+87            android:exported="false" >
+87-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+88            <intent-filter>
+88-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-21:29
+89                <action android:name="android.intent.action.BOOT_COMPLETED" />
+89-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:17-79
+89-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:25-76
+90            </intent-filter>
+91        </receiver>
+92
+93        <meta-data
+93-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:9-26:33
+94            android:name="com.unity.androidnotifications.exact_scheduling"
+94-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-75
+95            android:value="0" />
+95-->[:unityLibrary:mobilenotifications.androidlib] /Users/mac/Documents/AndroidProject/unityLibrary/mobilenotifications.androidlib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-30
+96    </application>
+97
+98</manifest>

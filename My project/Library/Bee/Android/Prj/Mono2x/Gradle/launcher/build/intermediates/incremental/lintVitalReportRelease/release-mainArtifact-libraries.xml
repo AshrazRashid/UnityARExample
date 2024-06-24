@@ -1,0 +1,40 @@
+<libraries>
+  <library
+      name="/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+      jars="/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/9c2c72328b894353369bb196f762a779/transformed/out/jars/classes.jar:/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/9c2c72328b894353369bb196f762a779/transformed/out/jars/libs/classes-2.jar:/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/9c2c72328b894353369bb196f762a779/transformed/out/jars/libs/unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/9c2c72328b894353369bb196f762a779/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+      jars="/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar"
+      resolved="__local_aars__:/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/classes.jar:unspecified@jar"
+      jars="/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/classes.jar"
+      resolved="__local_aars__:/Users/mac/My project/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/classes.jar:unspecified"/>
+  <library
+      name="com.google.ar:core:1.31.0@aar"
+      jars="/Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0/jars/classes.jar"
+      resolved="com.google.ar:core:1.31.0"
+      folder="/Users/mac/.gradle/caches/transforms-3/1c84161939160a16e36a5293485cebbb/transformed/jetified-core-1.31.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.annotation:annotation:1.3.0@jar"
+      jars="/Users/mac/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar"
+      resolved="androidx.annotation:annotation:1.3.0"/>
+</libraries>
