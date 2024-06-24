@@ -1,4 +1,0 @@
-#Sun Jun 09 17:39:50 PKT 2024
-base.0=/Users/mac/Documents/AndroidProject/unityLibrary/xrmanifest.androidlib/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

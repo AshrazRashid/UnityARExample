@@ -1,7 +1,0 @@
-#Sun Jun 09 17:39:57 PKT 2024
-base.0=/Users/mac/Documents/AndroidProject/launcher/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
-base.1=/Users/mac/Documents/AndroidProject/launcher/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/1/classes.dex
-path.0=0/classes.dex
-path.1=1/classes.dex
-renamed.0=classes.dex
-renamed.1=classes2.dex
